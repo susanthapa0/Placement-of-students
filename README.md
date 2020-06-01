@@ -2,7 +2,7 @@
 This repository consists of the analysis on status of placement of students of different streams by using different features. 
 This repository is aimed to analyse status of placements of students, which are from different streams. The data is extracted from Kaggle.
 
-Communication: most of my findings are communicated here :
+Communication: most of my findings are communicated here :  https://medium.com/@thapasusan7111/placements-of-students-in-the-job-industry-an-analysis-of-the-key-factors-3d65b9298a6e
 
 Enviroment: Using jupyter notebooks,python 3
 
